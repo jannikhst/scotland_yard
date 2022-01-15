@@ -1,0 +1,5529 @@
+[
+    {
+        "id": 1,
+        "position": {
+            "x": 318,
+            "y": 78
+        },
+        "edges": [
+            {
+                "to": 9,
+                "type": "taxi"
+            },
+            {
+                "to": 8,
+                "type": "taxi"
+            },
+            {
+                "to": 46,
+                "type": "bus"
+            },
+            {
+                "to": 58,
+                "type": "bus"
+            },
+            {
+                "to": 46,
+                "type": "underground"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "position": {
+            "x": 782,
+            "y": 42
+        },
+        "edges": [
+            {
+                "to": 20,
+                "type": "taxi"
+            },
+            {
+                "to": 10,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "position": {
+            "x": 1082,
+            "y": 48
+        },
+        "edges": [
+            {
+                "to": 11,
+                "type": "taxi"
+            },
+            {
+                "to": 4,
+                "type": "taxi"
+            },
+            {
+                "to": 12,
+                "type": "taxi"
+            },
+            {
+                "to": 23,
+                "type": "bus"
+            },
+            {
+                "to": 22,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "position": {
+            "x": 1268,
+            "y": 36
+        },
+        "edges": [
+            {
+                "to": 3,
+                "type": "taxi"
+            },
+            {
+                "to": 13,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "position": {
+            "x": 1996,
+            "y": 58
+        },
+        "edges": [
+            {
+                "to": 15,
+                "type": "taxi"
+            },
+            {
+                "to": 16,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "position": {
+            "x": 2224,
+            "y": 58
+        },
+        "edges": [
+            {
+                "to": 29,
+                "type": "taxi"
+            },
+            {
+                "to": 7,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "position": {
+            "x": 2444,
+            "y": 74
+        },
+        "edges": [
+            {
+                "to": 6,
+                "type": "taxi"
+            },
+            {
+                "to": 17,
+                "type": "taxi"
+            },
+            {
+                "to": 42,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "position": {
+            "x": 212,
+            "y": 186
+        },
+        "edges": [
+            {
+                "to": 1,
+                "type": "taxi"
+            },
+            {
+                "to": 18,
+                "type": "taxi"
+            },
+            {
+                "to": 19,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "position": {
+            "x": 402,
+            "y": 190
+        },
+        "edges": [
+            {
+                "to": 1,
+                "type": "taxi"
+            },
+            {
+                "to": 19,
+                "type": "taxi"
+            },
+            {
+                "to": 20,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "position": {
+            "x": 934,
+            "y": 176
+        },
+        "edges": [
+            {
+                "to": 2,
+                "type": "taxi"
+            },
+            {
+                "to": 11,
+                "type": "taxi"
+            },
+            {
+                "to": 21,
+                "type": "taxi"
+            },
+            {
+                "to": 34,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "position": {
+            "x": 1072,
+            "y": 200
+        },
+        "edges": [
+            {
+                "to": 3,
+                "type": "taxi"
+            },
+            {
+                "to": 10,
+                "type": "taxi"
+            },
+            {
+                "to": 22,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "position": {
+            "x": 1186,
+            "y": 176
+        },
+        "edges": [
+            {
+                "to": 3,
+                "type": "taxi"
+            },
+            {
+                "to": 23,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "position": {
+            "x": 1398,
+            "y": 170
+        },
+        "edges": [
+            {
+                "to": 4,
+                "type": "taxi"
+            },
+            {
+                "to": 23,
+                "type": "taxi"
+            },
+            {
+                "to": 24,
+                "type": "taxi"
+            },
+            {
+                "to": 14,
+                "type": "taxi"
+            },
+            {
+                "to": 23,
+                "type": "bus"
+            },
+            {
+                "to": 14,
+                "type": "bus"
+            },
+            {
+                "to": 52,
+                "type": "bus"
+            },
+            {
+                "to": 46,
+                "type": "underground"
+            },
+            {
+                "to": 67,
+                "type": "underground"
+            },
+            {
+                "to": 89,
+                "type": "underground"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "position": {
+            "x": 1614,
+            "y": 124
+        },
+        "edges": [
+            {
+                "to": 13,
+                "type": "taxi"
+            },
+            {
+                "to": 15,
+                "type": "taxi"
+            },
+            {
+                "to": 25,
+                "type": "taxi"
+            },
+            {
+                "to": 13,
+                "type": "bus"
+            },
+            {
+                "to": 15,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "position": {
+            "x": 1832,
+            "y": 104
+        },
+        "edges": [
+            {
+                "to": 5,
+                "type": "taxi"
+            },
+            {
+                "to": 14,
+                "type": "taxi"
+            },
+            {
+                "to": 28,
+                "type": "taxi"
+            },
+            {
+                "to": 16,
+                "type": "taxi"
+            },
+            {
+                "to": 26,
+                "type": "taxi"
+            },
+            {
+                "to": 14,
+                "type": "bus"
+            },
+            {
+                "to": 41,
+                "type": "bus"
+            },
+            {
+                "to": 29,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "position": {
+            "x": 2040,
+            "y": 182
+        },
+        "edges": [
+            {
+                "to": 5,
+                "type": "taxi"
+            },
+            {
+                "to": 15,
+                "type": "taxi"
+            },
+            {
+                "to": 28,
+                "type": "taxi"
+            },
+            {
+                "to": 29,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "position": {
+            "x": 2428,
+            "y": 250
+        },
+        "edges": [
+            {
+                "to": 7,
+                "type": "taxi"
+            },
+            {
+                "to": 29,
+                "type": "taxi"
+            },
+            {
+                "to": 30,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "position": {
+            "x": 110,
+            "y": 268
+        },
+        "edges": [
+            {
+                "to": 8,
+                "type": "taxi"
+            },
+            {
+                "to": 31,
+                "type": "taxi"
+            },
+            {
+                "to": 43,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "position": {
+            "x": 288,
+            "y": 290
+        },
+        "edges": [
+            {
+                "to": 8,
+                "type": "taxi"
+            },
+            {
+                "to": 9,
+                "type": "taxi"
+            },
+            {
+                "to": 32,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "position": {
+            "x": 500,
+            "y": 236
+        },
+        "edges": [
+            {
+                "to": 2,
+                "type": "taxi"
+            },
+            {
+                "to": 9,
+                "type": "taxi"
+            },
+            {
+                "to": 33,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "position": {
+            "x": 724,
+            "y": 326
+        },
+        "edges": [
+            {
+                "to": 10,
+                "type": "taxi"
+            },
+            {
+                "to": 33,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "position": {
+            "x": 1082,
+            "y": 360
+        },
+        "edges": [
+            {
+                "to": 11,
+                "type": "taxi"
+            },
+            {
+                "to": 23,
+                "type": "taxi"
+            },
+            {
+                "to": 34,
+                "type": "taxi"
+            },
+            {
+                "to": 35,
+                "type": "taxi"
+            },
+            {
+                "to": 3,
+                "type": "bus"
+            },
+            {
+                "to": 23,
+                "type": "bus"
+            },
+            {
+                "to": 34,
+                "type": "bus"
+            },
+            {
+                "to": 65,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "position": {
+            "x": 1252,
+            "y": 270
+        },
+        "edges": [
+            {
+                "to": 12,
+                "type": "taxi"
+            },
+            {
+                "to": 13,
+                "type": "taxi"
+            },
+            {
+                "to": 22,
+                "type": "taxi"
+            },
+            {
+                "to": 37,
+                "type": "taxi"
+            },
+            {
+                "to": 3,
+                "type": "bus"
+            },
+            {
+                "to": 13,
+                "type": "bus"
+            },
+            {
+                "to": 22,
+                "type": "bus"
+            },
+            {
+                "to": 67,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "position": {
+            "x": 1522,
+            "y": 282
+        },
+        "edges": [
+            {
+                "to": 37,
+                "type": "taxi"
+            },
+            {
+                "to": 38,
+                "type": "taxi"
+            },
+            {
+                "to": 13,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "position": {
+            "x": 1640,
+            "y": 310
+        },
+        "edges": [
+            {
+                "to": 14,
+                "type": "taxi"
+            },
+            {
+                "to": 38,
+                "type": "taxi"
+            },
+            {
+                "to": 39,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "position": {
+            "x": 1814,
+            "y": 178
+        },
+        "edges": [
+            {
+                "to": 15,
+                "type": "taxi"
+            },
+            {
+                "to": 27,
+                "type": "taxi"
+            },
+            {
+                "to": 39,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "position": {
+            "x": 1846,
+            "y": 282
+        },
+        "edges": [
+            {
+                "to": 26,
+                "type": "taxi"
+            },
+            {
+                "to": 28,
+                "type": "taxi"
+            },
+            {
+                "to": 40,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "position": {
+            "x": 1924,
+            "y": 242
+        },
+        "edges": [
+            {
+                "to": 15,
+                "type": "taxi"
+            },
+            {
+                "to": 16,
+                "type": "taxi"
+            },
+            {
+                "to": 27,
+                "type": "taxi"
+            },
+            {
+                "to": 41,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "position": {
+            "x": 2220,
+            "y": 304
+        },
+        "edges": [
+            {
+                "to": 42,
+                "type": "taxi"
+            },
+            {
+                "to": 6,
+                "type": "taxi"
+            },
+            {
+                "to": 41,
+                "type": "taxi"
+            },
+            {
+                "to": 17,
+                "type": "taxi"
+            },
+            {
+                "to": 16,
+                "type": "taxi"
+            },
+            {
+                "to": 15,
+                "type": "bus"
+            },
+            {
+                "to": 41,
+                "type": "bus"
+            },
+            {
+                "to": 42,
+                "type": "bus"
+            },
+            {
+                "to": 55,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "position": {
+            "x": 2506,
+            "y": 290
+        },
+        "edges": [
+            {
+                "to": 17,
+                "type": "taxi"
+            },
+            {
+                "to": 42,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "position": {
+            "x": 188,
+            "y": 350
+        },
+        "edges": [
+            {
+                "to": 18,
+                "type": "taxi"
+            },
+            {
+                "to": 43,
+                "type": "taxi"
+            },
+            {
+                "to": 44,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "position": {
+            "x": 440,
+            "y": 410
+        },
+        "edges": [
+            {
+                "to": 19,
+                "type": "taxi"
+            },
+            {
+                "to": 33,
+                "type": "taxi"
+            },
+            {
+                "to": 44,
+                "type": "taxi"
+            },
+            {
+                "to": 45,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "position": {
+            "x": 626,
+            "y": 378
+        },
+        "edges": [
+            {
+                "to": 20,
+                "type": "taxi"
+            },
+            {
+                "to": 21,
+                "type": "taxi"
+            },
+            {
+                "to": 32,
+                "type": "taxi"
+            },
+            {
+                "to": 46,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "position": {
+            "x": 948,
+            "y": 410
+        },
+        "edges": [
+            {
+                "to": 10,
+                "type": "taxi"
+            },
+            {
+                "to": 22,
+                "type": "taxi"
+            },
+            {
+                "to": 47,
+                "type": "taxi"
+            },
+            {
+                "to": 48,
+                "type": "taxi"
+            },
+            {
+                "to": 22,
+                "type": "bus"
+            },
+            {
+                "to": 46,
+                "type": "bus"
+            },
+            {
+                "to": 63,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "position": {
+            "x": 1134,
+            "y": 458
+        },
+        "edges": [
+            {
+                "to": 22,
+                "type": "taxi"
+            },
+            {
+                "to": 36,
+                "type": "taxi"
+            },
+            {
+                "to": 48,
+                "type": "taxi"
+            },
+            {
+                "to": 65,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "position": {
+            "x": 1212,
+            "y": 468
+        },
+        "edges": [
+            {
+                "to": 35,
+                "type": "taxi"
+            },
+            {
+                "to": 37,
+                "type": "taxi"
+            },
+            {
+                "to": 49,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "position": {
+            "x": 1326,
+            "y": 368
+        },
+        "edges": [
+            {
+                "to": 23,
+                "type": "taxi"
+            },
+            {
+                "to": 24,
+                "type": "taxi"
+            },
+            {
+                "to": 36,
+                "type": "taxi"
+            },
+            {
+                "to": 50,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "position": {
+            "x": 1578,
+            "y": 376
+        },
+        "edges": [
+            {
+                "to": 24,
+                "type": "taxi"
+            },
+            {
+                "to": 25,
+                "type": "taxi"
+            },
+            {
+                "to": 50,
+                "type": "taxi"
+            },
+            {
+                "to": 51,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "position": {
+            "x": 1692,
+            "y": 358
+        },
+        "edges": [
+            {
+                "to": 25,
+                "type": "taxi"
+            },
+            {
+                "to": 26,
+                "type": "taxi"
+            },
+            {
+                "to": 51,
+                "type": "taxi"
+            },
+            {
+                "to": 52,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "position": {
+            "x": 1892,
+            "y": 440
+        },
+        "edges": [
+            {
+                "to": 27,
+                "type": "taxi"
+            },
+            {
+                "to": 41,
+                "type": "taxi"
+            },
+            {
+                "to": 52,
+                "type": "taxi"
+            },
+            {
+                "to": 53,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "position": {
+            "x": 1976,
+            "y": 404
+        },
+        "edges": [
+            {
+                "to": 28,
+                "type": "taxi"
+            },
+            {
+                "to": 29,
+                "type": "taxi"
+            },
+            {
+                "to": 40,
+                "type": "taxi"
+            },
+            {
+                "to": 54,
+                "type": "taxi"
+            },
+            {
+                "to": 15,
+                "type": "bus"
+            },
+            {
+                "to": 29,
+                "type": "bus"
+            },
+            {
+                "to": 52,
+                "type": "bus"
+            },
+            {
+                "to": 87,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "position": {
+            "x": 2434,
+            "y": 406
+        },
+        "edges": [
+            {
+                "to": 29,
+                "type": "taxi"
+            },
+            {
+                "to": 30,
+                "type": "taxi"
+            },
+            {
+                "to": 56,
+                "type": "taxi"
+            },
+            {
+                "to": 72,
+                "type": "taxi"
+            },
+            {
+                "to": 7,
+                "type": "bus"
+            },
+            {
+                "to": 29,
+                "type": "bus"
+            },
+            {
+                "to": 72,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "position": {
+            "x": 68,
+            "y": 444
+        },
+        "edges": [
+            {
+                "to": 18,
+                "type": "taxi"
+            },
+            {
+                "to": 31,
+                "type": "taxi"
+            },
+            {
+                "to": 57,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "position": {
+            "x": 320,
+            "y": 496
+        },
+        "edges": [
+            {
+                "to": 31,
+                "type": "taxi"
+            },
+            {
+                "to": 32,
+                "type": "taxi"
+            },
+            {
+                "to": 58,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "position": {
+            "x": 506,
+            "y": 526
+        },
+        "edges": [
+            {
+                "to": 46,
+                "type": "taxi"
+            },
+            {
+                "to": 60,
+                "type": "taxi"
+            },
+            {
+                "to": 32,
+                "type": "taxi"
+            },
+            {
+                "to": 59,
+                "type": "taxi"
+            },
+            {
+                "to": 58,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "position": {
+            "x": 660,
+            "y": 480
+        },
+        "edges": [
+            {
+                "to": 33,
+                "type": "taxi"
+            },
+            {
+                "to": 45,
+                "type": "taxi"
+            },
+            {
+                "to": 47,
+                "type": "taxi"
+            },
+            {
+                "to": 61,
+                "type": "taxi"
+            },
+            {
+                "to": 1,
+                "type": "bus"
+            },
+            {
+                "to": 34,
+                "type": "bus"
+            },
+            {
+                "to": 58,
+                "type": "bus"
+            },
+            {
+                "to": 78,
+                "type": "bus"
+            },
+            {
+                "to": 1,
+                "type": "underground"
+            },
+            {
+                "to": 13,
+                "type": "underground"
+            },
+            {
+                "to": 74,
+                "type": "underground"
+            },
+            {
+                "to": 79,
+                "type": "underground"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "position": {
+            "x": 782,
+            "y": 444
+        },
+        "edges": [
+            {
+                "to": 34,
+                "type": "taxi"
+            },
+            {
+                "to": 46,
+                "type": "taxi"
+            },
+            {
+                "to": 62,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "position": {
+            "x": 982,
+            "y": 536
+        },
+        "edges": [
+            {
+                "to": 34,
+                "type": "taxi"
+            },
+            {
+                "to": 35,
+                "type": "taxi"
+            },
+            {
+                "to": 62,
+                "type": "taxi"
+            },
+            {
+                "to": 63,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "position": {
+            "x": 1278,
+            "y": 542
+        },
+        "edges": [
+            {
+                "to": 36,
+                "type": "taxi"
+            },
+            {
+                "to": 50,
+                "type": "taxi"
+            },
+            {
+                "to": 66,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "position": {
+            "x": 1400,
+            "y": 464
+        },
+        "edges": [
+            {
+                "to": 37,
+                "type": "taxi"
+            },
+            {
+                "to": 38,
+                "type": "taxi"
+            },
+            {
+                "to": 49,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "position": {
+            "x": 1648,
+            "y": 488
+        },
+        "edges": [
+            {
+                "to": 52,
+                "type": "taxi"
+            },
+            {
+                "to": 38,
+                "type": "taxi"
+            },
+            {
+                "to": 39,
+                "type": "taxi"
+            },
+            {
+                "to": 67,
+                "type": "taxi"
+            },
+            {
+                "to": 68,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "position": {
+            "x": 1774,
+            "y": 456
+        },
+        "edges": [
+            {
+                "to": 39,
+                "type": "taxi"
+            },
+            {
+                "to": 40,
+                "type": "taxi"
+            },
+            {
+                "to": 51,
+                "type": "taxi"
+            },
+            {
+                "to": 69,
+                "type": "taxi"
+            },
+            {
+                "to": 13,
+                "type": "bus"
+            },
+            {
+                "to": 41,
+                "type": "bus"
+            },
+            {
+                "to": 67,
+                "type": "bus"
+            },
+            {
+                "to": 86,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "position": {
+            "x": 1912,
+            "y": 534
+        },
+        "edges": [
+            {
+                "to": 40,
+                "type": "taxi"
+            },
+            {
+                "to": 54,
+                "type": "taxi"
+            },
+            {
+                "to": 69,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "position": {
+            "x": 2008,
+            "y": 502
+        },
+        "edges": [
+            {
+                "to": 41,
+                "type": "taxi"
+            },
+            {
+                "to": 53,
+                "type": "taxi"
+            },
+            {
+                "to": 55,
+                "type": "taxi"
+            },
+            {
+                "to": 70,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "position": {
+            "x": 2228,
+            "y": 498
+        },
+        "edges": [
+            {
+                "to": 54,
+                "type": "taxi"
+            },
+            {
+                "to": 71,
+                "type": "taxi"
+            },
+            {
+                "to": 29,
+                "type": "bus"
+            },
+            {
+                "to": 89,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "position": {
+            "x": 2516,
+            "y": 526
+        },
+        "edges": [
+            {
+                "to": 42,
+                "type": "taxi"
+            },
+            {
+                "to": 91,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "position": {
+            "x": 152,
+            "y": 542
+        },
+        "edges": [
+            {
+                "to": 43,
+                "type": "taxi"
+            },
+            {
+                "to": 58,
+                "type": "taxi"
+            },
+            {
+                "to": 73,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "position": {
+            "x": 396,
+            "y": 570
+        },
+        "edges": [
+            {
+                "to": 57,
+                "type": "taxi"
+            },
+            {
+                "to": 74,
+                "type": "taxi"
+            },
+            {
+                "to": 45,
+                "type": "taxi"
+            },
+            {
+                "to": 44,
+                "type": "taxi"
+            },
+            {
+                "to": 59,
+                "type": "taxi"
+            },
+            {
+                "to": 1,
+                "type": "bus"
+            },
+            {
+                "to": 46,
+                "type": "bus"
+            },
+            {
+                "to": 74,
+                "type": "bus"
+            },
+            {
+                "to": 77,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "position": {
+            "x": 442,
+            "y": 628
+        },
+        "edges": [
+            {
+                "to": 45,
+                "type": "taxi"
+            },
+            {
+                "to": 58,
+                "type": "taxi"
+            },
+            {
+                "to": 75,
+                "type": "taxi"
+            },
+            {
+                "to": 76,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "position": {
+            "x": 538,
+            "y": 614
+        },
+        "edges": [
+            {
+                "to": 45,
+                "type": "taxi"
+            },
+            {
+                "to": 61,
+                "type": "taxi"
+            },
+            {
+                "to": 76,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "position": {
+            "x": 706,
+            "y": 638
+        },
+        "edges": [
+            {
+                "to": 60,
+                "type": "taxi"
+            },
+            {
+                "to": 76,
+                "type": "taxi"
+            },
+            {
+                "to": 62,
+                "type": "taxi"
+            },
+            {
+                "to": 46,
+                "type": "taxi"
+            },
+            {
+                "to": 78,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "position": {
+            "x": 792,
+            "y": 610
+        },
+        "edges": [
+            {
+                "to": 47,
+                "type": "taxi"
+            },
+            {
+                "to": 48,
+                "type": "taxi"
+            },
+            {
+                "to": 61,
+                "type": "taxi"
+            },
+            {
+                "to": 79,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "position": {
+            "x": 1004,
+            "y": 716
+        },
+        "edges": [
+            {
+                "to": 48,
+                "type": "taxi"
+            },
+            {
+                "to": 64,
+                "type": "taxi"
+            },
+            {
+                "to": 79,
+                "type": "taxi"
+            },
+            {
+                "to": 80,
+                "type": "taxi"
+            },
+            {
+                "to": 34,
+                "type": "bus"
+            },
+            {
+                "to": 65,
+                "type": "bus"
+            },
+            {
+                "to": 79,
+                "type": "bus"
+            },
+            {
+                "to": 100,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "position": {
+            "x": 1132,
+            "y": 690
+        },
+        "edges": [
+            {
+                "to": 63,
+                "type": "taxi"
+            },
+            {
+                "to": 65,
+                "type": "taxi"
+            },
+            {
+                "to": 81,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "position": {
+            "x": 1264,
+            "y": 666
+        },
+        "edges": [
+            {
+                "to": 35,
+                "type": "taxi"
+            },
+            {
+                "to": 64,
+                "type": "taxi"
+            },
+            {
+                "to": 66,
+                "type": "taxi"
+            },
+            {
+                "to": 82,
+                "type": "taxi"
+            },
+            {
+                "to": 22,
+                "type": "bus"
+            },
+            {
+                "to": 63,
+                "type": "bus"
+            },
+            {
+                "to": 67,
+                "type": "bus"
+            },
+            {
+                "to": 82,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "position": {
+            "x": 1344,
+            "y": 648
+        },
+        "edges": [
+            {
+                "to": 49,
+                "type": "taxi"
+            },
+            {
+                "to": 65,
+                "type": "taxi"
+            },
+            {
+                "to": 67,
+                "type": "taxi"
+            },
+            {
+                "to": 82,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "position": {
+            "x": 1492,
+            "y": 622
+        },
+        "edges": [
+            {
+                "to": 51,
+                "type": "taxi"
+            },
+            {
+                "to": 66,
+                "type": "taxi"
+            },
+            {
+                "to": 68,
+                "type": "taxi"
+            },
+            {
+                "to": 84,
+                "type": "taxi"
+            },
+            {
+                "to": 52,
+                "type": "bus"
+            },
+            {
+                "to": 102,
+                "type": "bus"
+            },
+            {
+                "to": 65,
+                "type": "bus"
+            },
+            {
+                "to": 23,
+                "type": "bus"
+            },
+            {
+                "to": 82,
+                "type": "bus"
+            },
+            {
+                "to": 13,
+                "type": "underground"
+            },
+            {
+                "to": 79,
+                "type": "underground"
+            },
+            {
+                "to": 89,
+                "type": "underground"
+            },
+            {
+                "to": 111,
+                "type": "underground"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "position": {
+            "x": 1666,
+            "y": 586
+        },
+        "edges": [
+            {
+                "to": 51,
+                "type": "taxi"
+            },
+            {
+                "to": 67,
+                "type": "taxi"
+            },
+            {
+                "to": 69,
+                "type": "taxi"
+            },
+            {
+                "to": 85,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "position": {
+            "x": 1826,
+            "y": 574
+        },
+        "edges": [
+            {
+                "to": 52,
+                "type": "taxi"
+            },
+            {
+                "to": 53,
+                "type": "taxi"
+            },
+            {
+                "to": 68,
+                "type": "taxi"
+            },
+            {
+                "to": 86,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "position": {
+            "x": 2016,
+            "y": 606
+        },
+        "edges": [
+            {
+                "to": 54,
+                "type": "taxi"
+            },
+            {
+                "to": 71,
+                "type": "taxi"
+            },
+            {
+                "to": 87,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "position": {
+            "x": 2198,
+            "y": 608
+        },
+        "edges": [
+            {
+                "to": 55,
+                "type": "taxi"
+            },
+            {
+                "to": 70,
+                "type": "taxi"
+            },
+            {
+                "to": 72,
+                "type": "taxi"
+            },
+            {
+                "to": 89,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "position": {
+            "x": 2384,
+            "y": 628
+        },
+        "edges": [
+            {
+                "to": 42,
+                "type": "taxi"
+            },
+            {
+                "to": 71,
+                "type": "taxi"
+            },
+            {
+                "to": 90,
+                "type": "taxi"
+            },
+            {
+                "to": 91,
+                "type": "taxi"
+            },
+            {
+                "to": 42,
+                "type": "bus"
+            },
+            {
+                "to": 105,
+                "type": "bus"
+            },
+            {
+                "to": 107,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "position": {
+            "x": 150,
+            "y": 642
+        },
+        "edges": [
+            {
+                "to": 57,
+                "type": "taxi"
+            },
+            {
+                "to": 74,
+                "type": "taxi"
+            },
+            {
+                "to": 92,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "position": {
+            "x": 232,
+            "y": 740
+        },
+        "edges": [
+            {
+                "to": 58,
+                "type": "taxi"
+            },
+            {
+                "to": 73,
+                "type": "taxi"
+            },
+            {
+                "to": 75,
+                "type": "taxi"
+            },
+            {
+                "to": 92,
+                "type": "taxi"
+            },
+            {
+                "to": 58,
+                "type": "bus"
+            },
+            {
+                "to": 94,
+                "type": "bus"
+            },
+            {
+                "to": 46,
+                "type": "underground"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "position": {
+            "x": 356,
+            "y": 704
+        },
+        "edges": [
+            {
+                "to": 59,
+                "type": "taxi"
+            },
+            {
+                "to": 74,
+                "type": "taxi"
+            },
+            {
+                "to": 94,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "position": {
+            "x": 510,
+            "y": 704
+        },
+        "edges": [
+            {
+                "to": 59,
+                "type": "taxi"
+            },
+            {
+                "to": 60,
+                "type": "taxi"
+            },
+            {
+                "to": 61,
+                "type": "taxi"
+            },
+            {
+                "to": 77,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "position": {
+            "x": 610,
+            "y": 790
+        },
+        "edges": [
+            {
+                "to": 76,
+                "type": "taxi"
+            },
+            {
+                "to": 78,
+                "type": "taxi"
+            },
+            {
+                "to": 95,
+                "type": "taxi"
+            },
+            {
+                "to": 96,
+                "type": "taxi"
+            },
+            {
+                "to": 58,
+                "type": "bus"
+            },
+            {
+                "to": 78,
+                "type": "bus"
+            },
+            {
+                "to": 94,
+                "type": "bus"
+            },
+            {
+                "to": 124,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "position": {
+            "x": 742,
+            "y": 766
+        },
+        "edges": [
+            {
+                "to": 61,
+                "type": "taxi"
+            },
+            {
+                "to": 77,
+                "type": "taxi"
+            },
+            {
+                "to": 79,
+                "type": "taxi"
+            },
+            {
+                "to": 97,
+                "type": "taxi"
+            },
+            {
+                "to": 46,
+                "type": "bus"
+            },
+            {
+                "to": 77,
+                "type": "bus"
+            },
+            {
+                "to": 79,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "position": {
+            "x": 832,
+            "y": 750
+        },
+        "edges": [
+            {
+                "to": 62,
+                "type": "taxi"
+            },
+            {
+                "to": 63,
+                "type": "taxi"
+            },
+            {
+                "to": 78,
+                "type": "taxi"
+            },
+            {
+                "to": 98,
+                "type": "taxi"
+            },
+            {
+                "to": 63,
+                "type": "bus"
+            },
+            {
+                "to": 78,
+                "type": "bus"
+            },
+            {
+                "to": 46,
+                "type": "underground"
+            },
+            {
+                "to": 67,
+                "type": "underground"
+            },
+            {
+                "to": 93,
+                "type": "underground"
+            },
+            {
+                "to": 111,
+                "type": "underground"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "position": {
+            "x": 1038,
+            "y": 792
+        },
+        "edges": [
+            {
+                "to": 63,
+                "type": "taxi"
+            },
+            {
+                "to": 99,
+                "type": "taxi"
+            },
+            {
+                "to": 100,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "position": {
+            "x": 1224,
+            "y": 820
+        },
+        "edges": [
+            {
+                "to": 64,
+                "type": "taxi"
+            },
+            {
+                "to": 82,
+                "type": "taxi"
+            },
+            {
+                "to": 100,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "position": {
+            "x": 1294,
+            "y": 776
+        },
+        "edges": [
+            {
+                "to": 65,
+                "type": "taxi"
+            },
+            {
+                "to": 66,
+                "type": "taxi"
+            },
+            {
+                "to": 81,
+                "type": "taxi"
+            },
+            {
+                "to": 101,
+                "type": "taxi"
+            },
+            {
+                "to": 65,
+                "type": "bus"
+            },
+            {
+                "to": 67,
+                "type": "bus"
+            },
+            {
+                "to": 100,
+                "type": "bus"
+            },
+            {
+                "to": 140,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "position": {
+            "x": 1460,
+            "y": 746
+        },
+        "edges": [
+            {
+                "to": 101,
+                "type": "taxi"
+            },
+            {
+                "to": 102,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "position": {
+            "x": 1578,
+            "y": 696
+        },
+        "edges": [
+            {
+                "to": 67,
+                "type": "taxi"
+            },
+            {
+                "to": 85,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "position": {
+            "x": 1676,
+            "y": 664
+        },
+        "edges": [
+            {
+                "to": 68,
+                "type": "taxi"
+            },
+            {
+                "to": 84,
+                "type": "taxi"
+            },
+            {
+                "to": 103,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "position": {
+            "x": 1848,
+            "y": 728
+        },
+        "edges": [
+            {
+                "to": 69,
+                "type": "taxi"
+            },
+            {
+                "to": 103,
+                "type": "taxi"
+            },
+            {
+                "to": 104,
+                "type": "taxi"
+            },
+            {
+                "to": 52,
+                "type": "bus"
+            },
+            {
+                "to": 87,
+                "type": "bus"
+            },
+            {
+                "to": 102,
+                "type": "bus"
+            },
+            {
+                "to": 116,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "position": {
+            "x": 2030,
+            "y": 776
+        },
+        "edges": [
+            {
+                "to": 70,
+                "type": "taxi"
+            },
+            {
+                "to": 88,
+                "type": "taxi"
+            },
+            {
+                "to": 41,
+                "type": "bus"
+            },
+            {
+                "to": 86,
+                "type": "bus"
+            },
+            {
+                "to": 105,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "position": {
+            "x": 2116,
+            "y": 792
+        },
+        "edges": [
+            {
+                "to": 87,
+                "type": "taxi"
+            },
+            {
+                "to": 89,
+                "type": "taxi"
+            },
+            {
+                "to": 117,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "position": {
+            "x": 2186,
+            "y": 730
+        },
+        "edges": [
+            {
+                "to": 71,
+                "type": "taxi"
+            },
+            {
+                "to": 88,
+                "type": "taxi"
+            },
+            {
+                "to": 105,
+                "type": "taxi"
+            },
+            {
+                "to": 55,
+                "type": "bus"
+            },
+            {
+                "to": 105,
+                "type": "bus"
+            },
+            {
+                "to": 13,
+                "type": "underground"
+            },
+            {
+                "to": 67,
+                "type": "underground"
+            },
+            {
+                "to": 128,
+                "type": "underground"
+            },
+            {
+                "to": 140,
+                "type": "underground"
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "position": {
+            "x": 2308,
+            "y": 734
+        },
+        "edges": [
+            {
+                "to": 72,
+                "type": "taxi"
+            },
+            {
+                "to": 91,
+                "type": "taxi"
+            },
+            {
+                "to": 105,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "position": {
+            "x": 2490,
+            "y": 740
+        },
+        "edges": [
+            {
+                "to": 56,
+                "type": "taxi"
+            },
+            {
+                "to": 105,
+                "type": "taxi"
+            },
+            {
+                "to": 72,
+                "type": "taxi"
+            },
+            {
+                "to": 107,
+                "type": "taxi"
+            },
+            {
+                "to": 90,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "position": {
+            "x": 84,
+            "y": 834
+        },
+        "edges": [
+            {
+                "to": 73,
+                "type": "taxi"
+            },
+            {
+                "to": 74,
+                "type": "taxi"
+            },
+            {
+                "to": 93,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "position": {
+            "x": 96,
+            "y": 900
+        },
+        "edges": [
+            {
+                "to": 92,
+                "type": "taxi"
+            },
+            {
+                "to": 94,
+                "type": "taxi"
+            },
+            {
+                "to": 94,
+                "type": "bus"
+            },
+            {
+                "to": 79,
+                "type": "underground"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "position": {
+            "x": 250,
+            "y": 870
+        },
+        "edges": [
+            {
+                "to": 75,
+                "type": "taxi"
+            },
+            {
+                "to": 93,
+                "type": "taxi"
+            },
+            {
+                "to": 95,
+                "type": "taxi"
+            },
+            {
+                "to": 74,
+                "type": "bus"
+            },
+            {
+                "to": 77,
+                "type": "bus"
+            },
+            {
+                "to": 93,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "position": {
+            "x": 328,
+            "y": 854
+        },
+        "edges": [
+            {
+                "to": 77,
+                "type": "taxi"
+            },
+            {
+                "to": 94,
+                "type": "taxi"
+            },
+            {
+                "to": 122,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "position": {
+            "x": 708,
+            "y": 900
+        },
+        "edges": [
+            {
+                "to": 77,
+                "type": "taxi"
+            },
+            {
+                "to": 97,
+                "type": "taxi"
+            },
+            {
+                "to": 109,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "position": {
+            "x": 772,
+            "y": 880
+        },
+        "edges": [
+            {
+                "to": 78,
+                "type": "taxi"
+            },
+            {
+                "to": 96,
+                "type": "taxi"
+            },
+            {
+                "to": 98,
+                "type": "taxi"
+            },
+            {
+                "to": 109,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "position": {
+            "x": 878,
+            "y": 842
+        },
+        "edges": [
+            {
+                "to": 79,
+                "type": "taxi"
+            },
+            {
+                "to": 97,
+                "type": "taxi"
+            },
+            {
+                "to": 99,
+                "type": "taxi"
+            },
+            {
+                "to": 110,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "position": {
+            "x": 988,
+            "y": 854
+        },
+        "edges": [
+            {
+                "to": 80,
+                "type": "taxi"
+            },
+            {
+                "to": 98,
+                "type": "taxi"
+            },
+            {
+                "to": 110,
+                "type": "taxi"
+            },
+            {
+                "to": 112,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "position": {
+            "x": 1158,
+            "y": 912
+        },
+        "edges": [
+            {
+                "to": 101,
+                "type": "taxi"
+            },
+            {
+                "to": 80,
+                "type": "taxi"
+            },
+            {
+                "to": 112,
+                "type": "taxi"
+            },
+            {
+                "to": 113,
+                "type": "taxi"
+            },
+            {
+                "to": 81,
+                "type": "taxi"
+            },
+            {
+                "to": 63,
+                "type": "bus"
+            },
+            {
+                "to": 82,
+                "type": "bus"
+            },
+            {
+                "to": 111,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "position": {
+            "x": 1332,
+            "y": 848
+        },
+        "edges": [
+            {
+                "to": 82,
+                "type": "taxi"
+            },
+            {
+                "to": 83,
+                "type": "taxi"
+            },
+            {
+                "to": 100,
+                "type": "taxi"
+            },
+            {
+                "to": 114,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "position": {
+            "x": 1558,
+            "y": 762
+        },
+        "edges": [
+            {
+                "to": 83,
+                "type": "taxi"
+            },
+            {
+                "to": 103,
+                "type": "taxi"
+            },
+            {
+                "to": 115,
+                "type": "taxi"
+            },
+            {
+                "to": 67,
+                "type": "bus"
+            },
+            {
+                "to": 86,
+                "type": "bus"
+            },
+            {
+                "to": 127,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "position": {
+            "x": 1704,
+            "y": 742
+        },
+        "edges": [
+            {
+                "to": 85,
+                "type": "taxi"
+            },
+            {
+                "to": 86,
+                "type": "taxi"
+            },
+            {
+                "to": 102,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "position": {
+            "x": 1850,
+            "y": 812
+        },
+        "edges": [
+            {
+                "to": 86,
+                "type": "taxi"
+            },
+            {
+                "to": 116,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "position": {
+            "x": 2256,
+            "y": 846
+        },
+        "edges": [
+            {
+                "to": 106,
+                "type": "taxi"
+            },
+            {
+                "to": 89,
+                "type": "taxi"
+            },
+            {
+                "to": 90,
+                "type": "taxi"
+            },
+            {
+                "to": 91,
+                "type": "taxi"
+            },
+            {
+                "to": 108,
+                "type": "taxi"
+            },
+            {
+                "to": 89,
+                "type": "bus"
+            },
+            {
+                "to": 108,
+                "type": "bus"
+            },
+            {
+                "to": 72,
+                "type": "bus"
+            },
+            {
+                "to": 87,
+                "type": "bus"
+            },
+            {
+                "to": 107,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "position": {
+            "x": 2410,
+            "y": 868
+        },
+        "edges": [
+            {
+                "to": 105,
+                "type": "taxi"
+            },
+            {
+                "to": 107,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "position": {
+            "x": 2526,
+            "y": 872
+        },
+        "edges": [
+            {
+                "to": 91,
+                "type": "taxi"
+            },
+            {
+                "to": 106,
+                "type": "taxi"
+            },
+            {
+                "to": 119,
+                "type": "taxi"
+            },
+            {
+                "to": 72,
+                "type": "bus"
+            },
+            {
+                "to": 105,
+                "type": "bus"
+            },
+            {
+                "to": 161,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "position": {
+            "x": 2218,
+            "y": 1016
+        },
+        "edges": [
+            {
+                "to": 105,
+                "type": "taxi"
+            },
+            {
+                "to": 117,
+                "type": "taxi"
+            },
+            {
+                "to": 119,
+                "type": "taxi"
+            },
+            {
+                "to": 105,
+                "type": "bus"
+            },
+            {
+                "to": 116,
+                "type": "bus"
+            },
+            {
+                "to": 135,
+                "type": "bus"
+            },
+            {
+                "to": 115,
+                "type": "black"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "position": {
+            "x": 814,
+            "y": 1034
+        },
+        "edges": [
+            {
+                "to": 96,
+                "type": "taxi"
+            },
+            {
+                "to": 97,
+                "type": "taxi"
+            },
+            {
+                "to": 110,
+                "type": "taxi"
+            },
+            {
+                "to": 124,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "position": {
+            "x": 940,
+            "y": 918
+        },
+        "edges": [
+            {
+                "to": 98,
+                "type": "taxi"
+            },
+            {
+                "to": 99,
+                "type": "taxi"
+            },
+            {
+                "to": 109,
+                "type": "taxi"
+            },
+            {
+                "to": 111,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "position": {
+            "x": 1016,
+            "y": 1002
+        },
+        "edges": [
+            {
+                "to": 110,
+                "type": "taxi"
+            },
+            {
+                "to": 112,
+                "type": "taxi"
+            },
+            {
+                "to": 124,
+                "type": "taxi"
+            },
+            {
+                "to": 100,
+                "type": "bus"
+            },
+            {
+                "to": 124,
+                "type": "bus"
+            },
+            {
+                "to": 67,
+                "type": "underground"
+            },
+            {
+                "to": 79,
+                "type": "underground"
+            },
+            {
+                "to": 153,
+                "type": "underground"
+            },
+            {
+                "to": 163,
+                "type": "underground"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "position": {
+            "x": 1060,
+            "y": 975
+        },
+        "edges": [
+            {
+                "to": 99,
+                "type": "taxi"
+            },
+            {
+                "to": 100,
+                "type": "taxi"
+            },
+            {
+                "to": 111,
+                "type": "taxi"
+            },
+            {
+                "to": 125,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "position": {
+            "x": 1232,
+            "y": 986
+        },
+        "edges": [
+            {
+                "to": 100,
+                "type": "taxi"
+            },
+            {
+                "to": 114,
+                "type": "taxi"
+            },
+            {
+                "to": 125,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "position": {
+            "x": 1356,
+            "y": 942
+        },
+        "edges": [
+            {
+                "to": 101,
+                "type": "taxi"
+            },
+            {
+                "to": 115,
+                "type": "taxi"
+            },
+            {
+                "to": 132,
+                "type": "taxi"
+            },
+            {
+                "to": 113,
+                "type": "taxi"
+            },
+            {
+                "to": 126,
+                "type": "taxi"
+            },
+            {
+                "to": 131,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "position": {
+            "x": 1556,
+            "y": 882
+        },
+        "edges": [
+            {
+                "to": 102,
+                "type": "taxi"
+            },
+            {
+                "to": 114,
+                "type": "taxi"
+            },
+            {
+                "to": 126,
+                "type": "taxi"
+            },
+            {
+                "to": 127,
+                "type": "taxi"
+            },
+            {
+                "to": 157,
+                "type": "black"
+            },
+            {
+                "to": 108,
+                "type": "black"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "position": {
+            "x": 1852,
+            "y": 984
+        },
+        "edges": [
+            {
+                "to": 104,
+                "type": "taxi"
+            },
+            {
+                "to": 117,
+                "type": "taxi"
+            },
+            {
+                "to": 118,
+                "type": "taxi"
+            },
+            {
+                "to": 127,
+                "type": "taxi"
+            },
+            {
+                "to": 86,
+                "type": "bus"
+            },
+            {
+                "to": 108,
+                "type": "bus"
+            },
+            {
+                "to": 127,
+                "type": "bus"
+            },
+            {
+                "to": 142,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "position": {
+            "x": 2058,
+            "y": 1060
+        },
+        "edges": [
+            {
+                "to": 88,
+                "type": "taxi"
+            },
+            {
+                "to": 108,
+                "type": "taxi"
+            },
+            {
+                "to": 116,
+                "type": "taxi"
+            },
+            {
+                "to": 129,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "position": {
+            "x": 1856,
+            "y": 1104
+        },
+        "edges": [
+            {
+                "to": 116,
+                "type": "taxi"
+            },
+            {
+                "to": 129,
+                "type": "taxi"
+            },
+            {
+                "to": 134,
+                "type": "taxi"
+            },
+            {
+                "to": 142,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "position": {
+            "x": 2474,
+            "y": 1142
+        },
+        "edges": [
+            {
+                "to": 107,
+                "type": "taxi"
+            },
+            {
+                "to": 108,
+                "type": "taxi"
+            },
+            {
+                "to": 136,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "position": {
+            "x": 80,
+            "y": 1218
+        },
+        "edges": [
+            {
+                "to": 121,
+                "type": "taxi"
+            },
+            {
+                "to": 144,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "position": {
+            "x": 168,
+            "y": 1222
+        },
+        "edges": [
+            {
+                "to": 120,
+                "type": "taxi"
+            },
+            {
+                "to": 122,
+                "type": "taxi"
+            },
+            {
+                "to": 145,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "position": {
+            "x": 292,
+            "y": 1214
+        },
+        "edges": [
+            {
+                "to": 95,
+                "type": "taxi"
+            },
+            {
+                "to": 121,
+                "type": "taxi"
+            },
+            {
+                "to": 123,
+                "type": "taxi"
+            },
+            {
+                "to": 146,
+                "type": "taxi"
+            },
+            {
+                "to": 123,
+                "type": "bus"
+            },
+            {
+                "to": 144,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "position": {
+            "x": 610,
+            "y": 1208
+        },
+        "edges": [
+            {
+                "to": 137,
+                "type": "taxi"
+            },
+            {
+                "to": 124,
+                "type": "taxi"
+            },
+            {
+                "to": 122,
+                "type": "taxi"
+            },
+            {
+                "to": 148,
+                "type": "taxi"
+            },
+            {
+                "to": 149,
+                "type": "taxi"
+            },
+            {
+                "to": 122,
+                "type": "bus"
+            },
+            {
+                "to": 124,
+                "type": "bus"
+            },
+            {
+                "to": 144,
+                "type": "bus"
+            },
+            {
+                "to": 165,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "position": {
+            "x": 788,
+            "y": 1164
+        },
+        "edges": [
+            {
+                "to": 138,
+                "type": "taxi"
+            },
+            {
+                "to": 109,
+                "type": "taxi"
+            },
+            {
+                "to": 130,
+                "type": "taxi"
+            },
+            {
+                "to": 123,
+                "type": "taxi"
+            },
+            {
+                "to": 111,
+                "type": "taxi"
+            },
+            {
+                "to": 77,
+                "type": "bus"
+            },
+            {
+                "to": 111,
+                "type": "bus"
+            },
+            {
+                "to": 123,
+                "type": "bus"
+            },
+            {
+                "to": 153,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "position": {
+            "x": 1118,
+            "y": 1058
+        },
+        "edges": [
+            {
+                "to": 112,
+                "type": "taxi"
+            },
+            {
+                "to": 113,
+                "type": "taxi"
+            },
+            {
+                "to": 131,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "position": {
+            "x": 1440,
+            "y": 1004
+        },
+        "edges": [
+            {
+                "to": 114,
+                "type": "taxi"
+            },
+            {
+                "to": 115,
+                "type": "taxi"
+            },
+            {
+                "to": 127,
+                "type": "taxi"
+            },
+            {
+                "to": 140,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "position": {
+            "x": 1676,
+            "y": 1060
+        },
+        "edges": [
+            {
+                "to": 115,
+                "type": "taxi"
+            },
+            {
+                "to": 134,
+                "type": "taxi"
+            },
+            {
+                "to": 126,
+                "type": "taxi"
+            },
+            {
+                "to": 133,
+                "type": "taxi"
+            },
+            {
+                "to": 116,
+                "type": "taxi"
+            },
+            {
+                "to": 102,
+                "type": "bus"
+            },
+            {
+                "to": 116,
+                "type": "bus"
+            },
+            {
+                "to": 133,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "position": {
+            "x": 1974,
+            "y": 1406
+        },
+        "edges": [
+            {
+                "to": 142,
+                "type": "taxi"
+            },
+            {
+                "to": 160,
+                "type": "taxi"
+            },
+            {
+                "to": 188,
+                "type": "taxi"
+            },
+            {
+                "to": 172,
+                "type": "taxi"
+            },
+            {
+                "to": 143,
+                "type": "taxi"
+            },
+            {
+                "to": 142,
+                "type": "bus"
+            },
+            {
+                "to": 161,
+                "type": "bus"
+            },
+            {
+                "to": 187,
+                "type": "bus"
+            },
+            {
+                "to": 135,
+                "type": "bus"
+            },
+            {
+                "to": 199,
+                "type": "bus"
+            },
+            {
+                "to": 89,
+                "type": "underground"
+            },
+            {
+                "to": 140,
+                "type": "underground"
+            },
+            {
+                "to": 185,
+                "type": "underground"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "position": {
+            "x": 2042,
+            "y": 1128
+        },
+        "edges": [
+            {
+                "to": 142,
+                "type": "taxi"
+            },
+            {
+                "to": 117,
+                "type": "taxi"
+            },
+            {
+                "to": 118,
+                "type": "taxi"
+            },
+            {
+                "to": 135,
+                "type": "taxi"
+            },
+            {
+                "to": 143,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "position": {
+            "x": 1062,
+            "y": 1178
+        },
+        "edges": [
+            {
+                "to": 124,
+                "type": "taxi"
+            },
+            {
+                "to": 131,
+                "type": "taxi"
+            },
+            {
+                "to": 139,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "position": {
+            "x": 1160,
+            "y": 1112
+        },
+        "edges": [
+            {
+                "to": 114,
+                "type": "taxi"
+            },
+            {
+                "to": 125,
+                "type": "taxi"
+            },
+            {
+                "to": 130,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "position": {
+            "x": 1362,
+            "y": 1108
+        },
+        "edges": [
+            {
+                "to": 114,
+                "type": "taxi"
+            },
+            {
+                "to": 140,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "position": {
+            "x": 1582,
+            "y": 1214
+        },
+        "edges": [
+            {
+                "to": 127,
+                "type": "taxi"
+            },
+            {
+                "to": 140,
+                "type": "taxi"
+            },
+            {
+                "to": 141,
+                "type": "taxi"
+            },
+            {
+                "to": 127,
+                "type": "bus"
+            },
+            {
+                "to": 140,
+                "type": "bus"
+            },
+            {
+                "to": 157,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "position": {
+            "x": 1744,
+            "y": 1162
+        },
+        "edges": [
+            {
+                "to": 118,
+                "type": "taxi"
+            },
+            {
+                "to": 127,
+                "type": "taxi"
+            },
+            {
+                "to": 141,
+                "type": "taxi"
+            },
+            {
+                "to": 142,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "position": {
+            "x": 2118,
+            "y": 1200
+        },
+        "edges": [
+            {
+                "to": 129,
+                "type": "taxi"
+            },
+            {
+                "to": 136,
+                "type": "taxi"
+            },
+            {
+                "to": 143,
+                "type": "taxi"
+            },
+            {
+                "to": 161,
+                "type": "taxi"
+            },
+            {
+                "to": 108,
+                "type": "bus"
+            },
+            {
+                "to": 128,
+                "type": "bus"
+            },
+            {
+                "to": 161,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "position": {
+            "x": 2412,
+            "y": 1312
+        },
+        "edges": [
+            {
+                "to": 119,
+                "type": "taxi"
+            },
+            {
+                "to": 135,
+                "type": "taxi"
+            },
+            {
+                "to": 162,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "position": {
+            "x": 498,
+            "y": 1310
+        },
+        "edges": [
+            {
+                "to": 123,
+                "type": "taxi"
+            },
+            {
+                "to": 147,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "position": {
+            "x": 844,
+            "y": 1240
+        },
+        "edges": [
+            {
+                "to": 124,
+                "type": "taxi"
+            },
+            {
+                "to": 150,
+                "type": "taxi"
+            },
+            {
+                "to": 152,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "position": {
+            "x": 1048,
+            "y": 1254
+        },
+        "edges": [
+            {
+                "to": 130,
+                "type": "taxi"
+            },
+            {
+                "to": 140,
+                "type": "taxi"
+            },
+            {
+                "to": 153,
+                "type": "taxi"
+            },
+            {
+                "to": 154,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "position": {
+            "x": 1356,
+            "y": 1228
+        },
+        "edges": [
+            {
+                "to": 156,
+                "type": "taxi"
+            },
+            {
+                "to": 154,
+                "type": "taxi"
+            },
+            {
+                "to": 139,
+                "type": "taxi"
+            },
+            {
+                "to": 126,
+                "type": "taxi"
+            },
+            {
+                "to": 132,
+                "type": "taxi"
+            },
+            {
+                "to": 133,
+                "type": "taxi"
+            },
+            {
+                "to": 82,
+                "type": "bus"
+            },
+            {
+                "to": 133,
+                "type": "bus"
+            },
+            {
+                "to": 154,
+                "type": "bus"
+            },
+            {
+                "to": 156,
+                "type": "bus"
+            },
+            {
+                "to": 89,
+                "type": "underground"
+            },
+            {
+                "to": 128,
+                "type": "underground"
+            },
+            {
+                "to": 153,
+                "type": "underground"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "position": {
+            "x": 1642,
+            "y": 1252
+        },
+        "edges": [
+            {
+                "to": 133,
+                "type": "taxi"
+            },
+            {
+                "to": 134,
+                "type": "taxi"
+            },
+            {
+                "to": 142,
+                "type": "taxi"
+            },
+            {
+                "to": 158,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "position": {
+            "x": 1852,
+            "y": 1294
+        },
+        "edges": [
+            {
+                "to": 141,
+                "type": "taxi"
+            },
+            {
+                "to": 129,
+                "type": "taxi"
+            },
+            {
+                "to": 118,
+                "type": "taxi"
+            },
+            {
+                "to": 143,
+                "type": "taxi"
+            },
+            {
+                "to": 158,
+                "type": "taxi"
+            },
+            {
+                "to": 134,
+                "type": "taxi"
+            },
+            {
+                "to": 128,
+                "type": "taxi"
+            },
+            {
+                "to": 116,
+                "type": "bus"
+            },
+            {
+                "to": 128,
+                "type": "bus"
+            },
+            {
+                "to": 157,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "position": {
+            "x": 2042,
+            "y": 1268
+        },
+        "edges": [
+            {
+                "to": 142,
+                "type": "taxi"
+            },
+            {
+                "to": 160,
+                "type": "taxi"
+            },
+            {
+                "to": 129,
+                "type": "taxi"
+            },
+            {
+                "to": 128,
+                "type": "taxi"
+            },
+            {
+                "to": 135,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "position": {
+            "x": 110,
+            "y": 1438
+        },
+        "edges": [
+            {
+                "to": 120,
+                "type": "taxi"
+            },
+            {
+                "to": 145,
+                "type": "taxi"
+            },
+            {
+                "to": 177,
+                "type": "taxi"
+            },
+            {
+                "to": 122,
+                "type": "bus"
+            },
+            {
+                "to": 123,
+                "type": "bus"
+            },
+            {
+                "to": 163,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "position": {
+            "x": 198,
+            "y": 1428
+        },
+        "edges": [
+            {
+                "to": 121,
+                "type": "taxi"
+            },
+            {
+                "to": 144,
+                "type": "taxi"
+            },
+            {
+                "to": 146,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "position": {
+            "x": 320,
+            "y": 1420
+        },
+        "edges": [
+            {
+                "to": 122,
+                "type": "taxi"
+            },
+            {
+                "to": 145,
+                "type": "taxi"
+            },
+            {
+                "to": 147,
+                "type": "taxi"
+            },
+            {
+                "to": 163,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "position": {
+            "x": 410,
+            "y": 1398
+        },
+        "edges": [
+            {
+                "to": 137,
+                "type": "taxi"
+            },
+            {
+                "to": 146,
+                "type": "taxi"
+            },
+            {
+                "to": 164,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "position": {
+            "x": 538,
+            "y": 1378
+        },
+        "edges": [
+            {
+                "to": 123,
+                "type": "taxi"
+            },
+            {
+                "to": 149,
+                "type": "taxi"
+            },
+            {
+                "to": 164,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "position": {
+            "x": 644,
+            "y": 1364
+        },
+        "edges": [
+            {
+                "to": 123,
+                "type": "taxi"
+            },
+            {
+                "to": 148,
+                "type": "taxi"
+            },
+            {
+                "to": 150,
+                "type": "taxi"
+            },
+            {
+                "to": 165,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "position": {
+            "x": 764,
+            "y": 1318
+        },
+        "edges": [
+            {
+                "to": 138,
+                "type": "taxi"
+            },
+            {
+                "to": 149,
+                "type": "taxi"
+            },
+            {
+                "to": 151,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "position": {
+            "x": 824,
+            "y": 1382
+        },
+        "edges": [
+            {
+                "to": 150,
+                "type": "taxi"
+            },
+            {
+                "to": 152,
+                "type": "taxi"
+            },
+            {
+                "to": 165,
+                "type": "taxi"
+            },
+            {
+                "to": 166,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "position": {
+            "x": 912,
+            "y": 1320
+        },
+        "edges": [
+            {
+                "to": 138,
+                "type": "taxi"
+            },
+            {
+                "to": 151,
+                "type": "taxi"
+            },
+            {
+                "to": 153,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "position": {
+            "x": 958,
+            "y": 1392
+        },
+        "edges": [
+            {
+                "to": 152,
+                "type": "taxi"
+            },
+            {
+                "to": 166,
+                "type": "taxi"
+            },
+            {
+                "to": 167,
+                "type": "taxi"
+            },
+            {
+                "to": 154,
+                "type": "taxi"
+            },
+            {
+                "to": 139,
+                "type": "taxi"
+            },
+            {
+                "to": 124,
+                "type": "bus"
+            },
+            {
+                "to": 154,
+                "type": "bus"
+            },
+            {
+                "to": 180,
+                "type": "bus"
+            },
+            {
+                "to": 184,
+                "type": "bus"
+            },
+            {
+                "to": 111,
+                "type": "underground"
+            },
+            {
+                "to": 140,
+                "type": "underground"
+            },
+            {
+                "to": 163,
+                "type": "underground"
+            },
+            {
+                "to": 185,
+                "type": "underground"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "position": {
+            "x": 1172,
+            "y": 1346
+        },
+        "edges": [
+            {
+                "to": 139,
+                "type": "taxi"
+            },
+            {
+                "to": 140,
+                "type": "taxi"
+            },
+            {
+                "to": 153,
+                "type": "taxi"
+            },
+            {
+                "to": 155,
+                "type": "taxi"
+            },
+            {
+                "to": 140,
+                "type": "bus"
+            },
+            {
+                "to": 153,
+                "type": "bus"
+            },
+            {
+                "to": 156,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "position": {
+            "x": 1244,
+            "y": 1438
+        },
+        "edges": [
+            {
+                "to": 154,
+                "type": "taxi"
+            },
+            {
+                "to": 156,
+                "type": "taxi"
+            },
+            {
+                "to": 167,
+                "type": "taxi"
+            },
+            {
+                "to": 168,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "position": {
+            "x": 1386,
+            "y": 1438
+        },
+        "edges": [
+            {
+                "to": 140,
+                "type": "taxi"
+            },
+            {
+                "to": 155,
+                "type": "taxi"
+            },
+            {
+                "to": 157,
+                "type": "taxi"
+            },
+            {
+                "to": 169,
+                "type": "taxi"
+            },
+            {
+                "to": 140,
+                "type": "bus"
+            },
+            {
+                "to": 154,
+                "type": "bus"
+            },
+            {
+                "to": 157,
+                "type": "bus"
+            },
+            {
+                "to": 184,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "position": {
+            "x": 1510,
+            "y": 1448
+        },
+        "edges": [
+            {
+                "to": 156,
+                "type": "taxi"
+            },
+            {
+                "to": 158,
+                "type": "taxi"
+            },
+            {
+                "to": 170,
+                "type": "taxi"
+            },
+            {
+                "to": 133,
+                "type": "bus"
+            },
+            {
+                "to": 156,
+                "type": "bus"
+            },
+            {
+                "to": 185,
+                "type": "bus"
+            },
+            {
+                "to": 142,
+                "type": "bus"
+            },
+            {
+                "to": 194,
+                "type": "black"
+            },
+            {
+                "to": 115,
+                "type": "black"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "position": {
+            "x": 1712,
+            "y": 1366
+        },
+        "edges": [
+            {
+                "to": 141,
+                "type": "taxi"
+            },
+            {
+                "to": 142,
+                "type": "taxi"
+            },
+            {
+                "to": 157,
+                "type": "taxi"
+            },
+            {
+                "to": 159,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "position": {
+            "x": 1720,
+            "y": 1644
+        },
+        "edges": [
+            {
+                "to": 170,
+                "type": "taxi"
+            },
+            {
+                "to": 172,
+                "type": "taxi"
+            },
+            {
+                "to": 198,
+                "type": "taxi"
+            },
+            {
+                "to": 158,
+                "type": "taxi"
+            },
+            {
+                "to": 186,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "position": {
+            "x": 2128,
+            "y": 1440
+        },
+        "edges": [
+            {
+                "to": 128,
+                "type": "taxi"
+            },
+            {
+                "to": 143,
+                "type": "taxi"
+            },
+            {
+                "to": 161,
+                "type": "taxi"
+            },
+            {
+                "to": 173,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "position": {
+            "x": 2294,
+            "y": 1422
+        },
+        "edges": [
+            {
+                "to": 135,
+                "type": "taxi"
+            },
+            {
+                "to": 160,
+                "type": "taxi"
+            },
+            {
+                "to": 174,
+                "type": "taxi"
+            },
+            {
+                "to": 107,
+                "type": "bus"
+            },
+            {
+                "to": 128,
+                "type": "bus"
+            },
+            {
+                "to": 135,
+                "type": "bus"
+            },
+            {
+                "to": 199,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "position": {
+            "x": 2530,
+            "y": 1424
+        },
+        "edges": [
+            {
+                "to": 136,
+                "type": "taxi"
+            },
+            {
+                "to": 175,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "position": {
+            "x": 308,
+            "y": 1486
+        },
+        "edges": [
+            {
+                "to": 146,
+                "type": "taxi"
+            },
+            {
+                "to": 177,
+                "type": "taxi"
+            },
+            {
+                "to": 144,
+                "type": "bus"
+            },
+            {
+                "to": 176,
+                "type": "bus"
+            },
+            {
+                "to": 191,
+                "type": "bus"
+            },
+            {
+                "to": 111,
+                "type": "underground"
+            },
+            {
+                "to": 153,
+                "type": "underground"
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "position": {
+            "x": 436,
+            "y": 1486
+        },
+        "edges": [
+            {
+                "to": 147,
+                "type": "taxi"
+            },
+            {
+                "to": 148,
+                "type": "taxi"
+            },
+            {
+                "to": 178,
+                "type": "taxi"
+            },
+            {
+                "to": 179,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "position": {
+            "x": 674,
+            "y": 1524
+        },
+        "edges": [
+            {
+                "to": 149,
+                "type": "taxi"
+            },
+            {
+                "to": 151,
+                "type": "taxi"
+            },
+            {
+                "to": 179,
+                "type": "taxi"
+            },
+            {
+                "to": 180,
+                "type": "taxi"
+            },
+            {
+                "to": 123,
+                "type": "bus"
+            },
+            {
+                "to": 180,
+                "type": "bus"
+            },
+            {
+                "to": 191,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "position": {
+            "x": 924,
+            "y": 1470
+        },
+        "edges": [
+            {
+                "to": 151,
+                "type": "taxi"
+            },
+            {
+                "to": 153,
+                "type": "taxi"
+            },
+            {
+                "to": 181,
+                "type": "taxi"
+            },
+            {
+                "to": 183,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "position": {
+            "x": 1122,
+            "y": 1508
+        },
+        "edges": [
+            {
+                "to": 153,
+                "type": "taxi"
+            },
+            {
+                "to": 155,
+                "type": "taxi"
+            },
+            {
+                "to": 168,
+                "type": "taxi"
+            },
+            {
+                "to": 183,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "position": {
+            "x": 1192,
+            "y": 1560
+        },
+        "edges": [
+            {
+                "to": 155,
+                "type": "taxi"
+            },
+            {
+                "to": 167,
+                "type": "taxi"
+            },
+            {
+                "to": 184,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "position": {
+            "x": 1382,
+            "y": 1536
+        },
+        "edges": [
+            {
+                "to": 156,
+                "type": "taxi"
+            },
+            {
+                "to": 184,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "position": {
+            "x": 1492,
+            "y": 1552
+        },
+        "edges": [
+            {
+                "to": 157,
+                "type": "taxi"
+            },
+            {
+                "to": 159,
+                "type": "taxi"
+            },
+            {
+                "to": 185,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "position": {
+            "x": 2244,
+            "y": 1820
+        },
+        "edges": [
+            {
+                "to": 173,
+                "type": "taxi"
+            },
+            {
+                "to": 175,
+                "type": "taxi"
+            },
+            {
+                "to": 199,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "position": {
+            "x": 1910,
+            "y": 1542
+        },
+        "edges": [
+            {
+                "to": 128,
+                "type": "taxi"
+            },
+            {
+                "to": 159,
+                "type": "taxi"
+            },
+            {
+                "to": 187,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "position": {
+            "x": 2170,
+            "y": 1620
+        },
+        "edges": [
+            {
+                "to": 160,
+                "type": "taxi"
+            },
+            {
+                "to": 171,
+                "type": "taxi"
+            },
+            {
+                "to": 174,
+                "type": "taxi"
+            },
+            {
+                "to": 188,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "position": {
+            "x": 2388,
+            "y": 1556
+        },
+        "edges": [
+            {
+                "to": 161,
+                "type": "taxi"
+            },
+            {
+                "to": 173,
+                "type": "taxi"
+            },
+            {
+                "to": 175,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "position": {
+            "x": 2504,
+            "y": 1648
+        },
+        "edges": [
+            {
+                "to": 162,
+                "type": "taxi"
+            },
+            {
+                "to": 171,
+                "type": "taxi"
+            },
+            {
+                "to": 174,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "position": {
+            "x": 72,
+            "y": 1612
+        },
+        "edges": [
+            {
+                "to": 177,
+                "type": "taxi"
+            },
+            {
+                "to": 189,
+                "type": "taxi"
+            },
+            {
+                "to": 163,
+                "type": "bus"
+            },
+            {
+                "to": 190,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "position": {
+            "x": 176,
+            "y": 1588
+        },
+        "edges": [
+            {
+                "to": 144,
+                "type": "taxi"
+            },
+            {
+                "to": 163,
+                "type": "taxi"
+            },
+            {
+                "to": 176,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "position": {
+            "x": 364,
+            "y": 1572
+        },
+        "edges": [
+            {
+                "to": 164,
+                "type": "taxi"
+            },
+            {
+                "to": 189,
+                "type": "taxi"
+            },
+            {
+                "to": 191,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "position": {
+            "x": 582,
+            "y": 1596
+        },
+        "edges": [
+            {
+                "to": 164,
+                "type": "taxi"
+            },
+            {
+                "to": 165,
+                "type": "taxi"
+            },
+            {
+                "to": 191,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "position": {
+            "x": 720,
+            "y": 1624
+        },
+        "edges": [
+            {
+                "to": 165,
+                "type": "taxi"
+            },
+            {
+                "to": 181,
+                "type": "taxi"
+            },
+            {
+                "to": 193,
+                "type": "taxi"
+            },
+            {
+                "to": 153,
+                "type": "bus"
+            },
+            {
+                "to": 165,
+                "type": "bus"
+            },
+            {
+                "to": 184,
+                "type": "bus"
+            },
+            {
+                "to": 190,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "position": {
+            "x": 864,
+            "y": 1586
+        },
+        "edges": [
+            {
+                "to": 166,
+                "type": "taxi"
+            },
+            {
+                "to": 180,
+                "type": "taxi"
+            },
+            {
+                "to": 182,
+                "type": "taxi"
+            },
+            {
+                "to": 193,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "position": {
+            "x": 930,
+            "y": 1604
+        },
+        "edges": [
+            {
+                "to": 181,
+                "type": "taxi"
+            },
+            {
+                "to": 183,
+                "type": "taxi"
+            },
+            {
+                "to": 195,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "position": {
+            "x": 1062,
+            "y": 1546
+        },
+        "edges": [
+            {
+                "to": 166,
+                "type": "taxi"
+            },
+            {
+                "to": 167,
+                "type": "taxi"
+            },
+            {
+                "to": 182,
+                "type": "taxi"
+            },
+            {
+                "to": 196,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "position": {
+            "x": 1310,
+            "y": 1646
+        },
+        "edges": [
+            {
+                "to": 185,
+                "type": "taxi"
+            },
+            {
+                "to": 196,
+                "type": "taxi"
+            },
+            {
+                "to": 197,
+                "type": "taxi"
+            },
+            {
+                "to": 169,
+                "type": "taxi"
+            },
+            {
+                "to": 168,
+                "type": "taxi"
+            },
+            {
+                "to": 153,
+                "type": "bus"
+            },
+            {
+                "to": 156,
+                "type": "bus"
+            },
+            {
+                "to": 180,
+                "type": "bus"
+            },
+            {
+                "to": 185,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "position": {
+            "x": 1450,
+            "y": 1746
+        },
+        "edges": [
+            {
+                "to": 170,
+                "type": "taxi"
+            },
+            {
+                "to": 184,
+                "type": "taxi"
+            },
+            {
+                "to": 186,
+                "type": "taxi"
+            },
+            {
+                "to": 157,
+                "type": "bus"
+            },
+            {
+                "to": 184,
+                "type": "bus"
+            },
+            {
+                "to": 187,
+                "type": "bus"
+            },
+            {
+                "to": 128,
+                "type": "underground"
+            },
+            {
+                "to": 153,
+                "type": "underground"
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "position": {
+            "x": 1610,
+            "y": 1712
+        },
+        "edges": [
+            {
+                "to": 159,
+                "type": "taxi"
+            },
+            {
+                "to": 185,
+                "type": "taxi"
+            },
+            {
+                "to": 198,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "position": {
+            "x": 1842,
+            "y": 1658
+        },
+        "edges": [
+            {
+                "to": 172,
+                "type": "taxi"
+            },
+            {
+                "to": 188,
+                "type": "taxi"
+            },
+            {
+                "to": 198,
+                "type": "taxi"
+            },
+            {
+                "to": 128,
+                "type": "bus"
+            },
+            {
+                "to": 185,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "position": {
+            "x": 2074,
+            "y": 1662
+        },
+        "edges": [
+            {
+                "to": 128,
+                "type": "taxi"
+            },
+            {
+                "to": 173,
+                "type": "taxi"
+            },
+            {
+                "to": 187,
+                "type": "taxi"
+            },
+            {
+                "to": 199,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "position": {
+            "x": 180,
+            "y": 1758
+        },
+        "edges": [
+            {
+                "to": 176,
+                "type": "taxi"
+            },
+            {
+                "to": 178,
+                "type": "taxi"
+            },
+            {
+                "to": 190,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "position": {
+            "x": 290,
+            "y": 1824
+        },
+        "edges": [
+            {
+                "to": 189,
+                "type": "taxi"
+            },
+            {
+                "to": 191,
+                "type": "taxi"
+            },
+            {
+                "to": 192,
+                "type": "taxi"
+            },
+            {
+                "to": 176,
+                "type": "bus"
+            },
+            {
+                "to": 180,
+                "type": "bus"
+            },
+            {
+                "to": 191,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "position": {
+            "x": 438,
+            "y": 1706
+        },
+        "edges": [
+            {
+                "to": 178,
+                "type": "taxi"
+            },
+            {
+                "to": 179,
+                "type": "taxi"
+            },
+            {
+                "to": 190,
+                "type": "taxi"
+            },
+            {
+                "to": 192,
+                "type": "taxi"
+            },
+            {
+                "to": 163,
+                "type": "bus"
+            },
+            {
+                "to": 165,
+                "type": "bus"
+            },
+            {
+                "to": 190,
+                "type": "bus"
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "position": {
+            "x": 472,
+            "y": 1858
+        },
+        "edges": [
+            {
+                "to": 190,
+                "type": "taxi"
+            },
+            {
+                "to": 191,
+                "type": "taxi"
+            },
+            {
+                "to": 194,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "position": {
+            "x": 818,
+            "y": 1718
+        },
+        "edges": [
+            {
+                "to": 180,
+                "type": "taxi"
+            },
+            {
+                "to": 181,
+                "type": "taxi"
+            },
+            {
+                "to": 194,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "position": {
+            "x": 860,
+            "y": 1768
+        },
+        "edges": [
+            {
+                "to": 192,
+                "type": "taxi"
+            },
+            {
+                "to": 193,
+                "type": "taxi"
+            },
+            {
+                "to": 195,
+                "type": "taxi"
+            },
+            {
+                "to": 157,
+                "type": "black"
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "position": {
+            "x": 966,
+            "y": 1760
+        },
+        "edges": [
+            {
+                "to": 182,
+                "type": "taxi"
+            },
+            {
+                "to": 194,
+                "type": "taxi"
+            },
+            {
+                "to": 197,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "position": {
+            "x": 1116,
+            "y": 1680
+        },
+        "edges": [
+            {
+                "to": 183,
+                "type": "taxi"
+            },
+            {
+                "to": 184,
+                "type": "taxi"
+            },
+            {
+                "to": 197,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "position": {
+            "x": 1138,
+            "y": 1784
+        },
+        "edges": [
+            {
+                "to": 184,
+                "type": "taxi"
+            },
+            {
+                "to": 195,
+                "type": "taxi"
+            },
+            {
+                "to": 196,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "position": {
+            "x": 1714,
+            "y": 1872
+        },
+        "edges": [
+            {
+                "to": 159,
+                "type": "taxi"
+            },
+            {
+                "to": 186,
+                "type": "taxi"
+            },
+            {
+                "to": 187,
+                "type": "taxi"
+            },
+            {
+                "to": 199,
+                "type": "taxi"
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "position": {
+            "x": 2102,
+            "y": 1858
+        },
+        "edges": [
+            {
+                "to": 171,
+                "type": "taxi"
+            },
+            {
+                "to": 188,
+                "type": "taxi"
+            },
+            {
+                "to": 198,
+                "type": "taxi"
+            },
+            {
+                "to": 128,
+                "type": "bus"
+            },
+            {
+                "to": 161,
+                "type": "bus"
+            }
+        ]
+    }
+]
